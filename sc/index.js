@@ -1,2 +1,3 @@
-console.log('config.js');
-console.log('version 3');
+console.log('index.js');
+console.log('version2.1');
+console.log('3rd update');
